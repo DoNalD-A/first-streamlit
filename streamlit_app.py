@@ -16,4 +16,7 @@ st.code("x=2021")
 
 
 st.checkbox('yes')
-st.butoon("Click")
+st.checkbox('no')
+st.button("Click")
+
+st.color_picker("Choose eyour favorite color")
